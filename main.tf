@@ -5,3 +5,4 @@ resource "azurerm_resource_group" "example" {
 it used to organize and mange azure resources
 all resources in the resource group can deployed updated and deleted together
 deleting a resource group delete all the resources inside it
+it help in cost management and life cycle management of resources
